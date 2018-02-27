@@ -1,0 +1,18 @@
+programmer$ cat list.txt
+3Com 3CDaemon FTP Server
+Ability Server
+CCProxy Telnet Service Ready
+ESMTP TABS Mail Server
+FreeFloat Ftp Server
+IMAP4rev1 MDaemon
+MailEnable Servive
+NetDecision-HTTP-Server
+PSO Proxy
+SAMBAR
+Sami FTP Server
+Spipe
+TelSrv
+WDaemon
+WinGate
+Xitami
+YahooPOPs! Simple Mail Transfer Service Ready
